@@ -1,6 +1,14 @@
 # generate-adblock-hosts
 Generate list of hosts to block for dnsmasq and unbound
 
+# Build Dependencies
+
+C compiler and associated tools. Sometimes called called a compiler toolchain or package named build-essentials
+
+# Runtime Dependencies
+
+cURL
+
 # Compile
 
     $ cd generate-adblock-hosts
